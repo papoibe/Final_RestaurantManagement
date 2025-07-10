@@ -1,20 +1,16 @@
 # RestaurantManagementProject
 ========== Hệ Thống Quản Lý Quán Ăn ===========
-+======Thành viên đóng góp======== 
-+ Lê Nguyễn Phước Thịnh
-+ Trần Quốc Thịnh
-+ Nguyễn Trọng Thịnh
 
 - Đây là Repo chứa source code hoàn chỉnh của đồ án quản lý nhà hàng/quán ăn mà em/tôi đã Push lên repo mới để tránh việc xung đột
 - Lịch sử và quá trình commit được lưu vào đường dẫn của Repo: https://github.com/papoibe/RestaurantManagerment
 
 - Những thay đổi mới cho Project này để trở nên hoàn chỉnh: 
-+ thay đổi giao diện của tất cả các Form phù hợp với hệ thống: Phước Thịnh
-+ Chỉnh sửa code đúng quy tắt Lập trình cơ sở dữ liệu: Phước Thịnh
-+ cập nhật FrmQuanLyMon - logic hoạt động, cập nhật: Trọng Thịnh
-+ Chỉnh sửa Logic DonHang - LapOrder - ThanhToan: Quốc Thịnh  
-+ chỉnh sửa show tìm kiếm của quản lý hóa đơn (FrmQuanLyHoaDon): bổ sung database HoaDonThanhToan và logic code HoaDonThanhToan: mục đích hiển thị các hóa đơn chưa thanh toán và cập nhật sau khi thanh toán: Phước Thịnh
-+ Bổ sung logic: như một hệ thống - Logic phân quyền các cá nhân thực hiện các nghiệp vụ : Phước Thịnh
++ thay đổi giao diện của tất cả các Form phù hợp với hệ thống
++ Chỉnh sửa code đúng quy tắt Lập trình cơ sở dữ liệu
++ cập nhật FrmQuanLyMon - logic hoạt động, cập nhật
++ Chỉnh sửa Logic DonHang - LapOrder - ThanhToan
++ chỉnh sửa show tìm kiếm của quản lý hóa đơn (FrmQuanLyHoaDon): bổ sung database HoaDonThanhToan và logic code HoaDonThanhToan: mục đích hiển thị các hóa đơn chưa thanh toán và cập nhật sau khi thanh toán
++ Bổ sung logic: như một hệ thống - Logic phân quyền các cá nhân thực hiện các nghiệp vụ 
 + ===các loại báo cáo: Phước Thịnh ======= 
 Báo cáo tồn kho
 Báo cáo doanh thu theo loại
